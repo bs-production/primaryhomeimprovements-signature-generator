@@ -5,7 +5,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <img src="https://cdn.treehouseinternetgroup.com/cms_images/48/LJHealthyBS-Logo-Services-RGB.png" alt="" style="width:250px">
+            <img src="https://cdn.treehouseinternetgroup.com/cms_images/3155/Liberty_logo_SELECT_RGB%20-%20NOT%20APPROVED%20YET%20-%20Only%20reference%20for%20color.png" alt="" style="width:350px">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
@@ -62,7 +62,7 @@
 
           <div class="gif-box level-item has-text-centered">
             <ul>
-              <li>1. Place cursor at the top-left corner of Healthy Basement Systems logo and click & drag to bottom-right corner of the disclaimer</li>
+              <li>1. Place cursor at the top-left corner of Liberty Basement Systems logo and click & drag to bottom-right corner of the disclaimer</li>
               <li>2. Paste into Outlook signatures in preferences panel</li>
               <li>3. Adjust logo size if needed</li>
             </ul>
@@ -76,7 +76,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2020 Healthy Basement Systems
+                    &copy;2021 Liberty Basement Systems
                 </p>
             </div>
         </div>
@@ -227,7 +227,7 @@ input:disabled {
   margin-top: 10px;
 }
 .sub-text p {
-  color: #000;
+  color: #2851a9;
   font-family: "Barlow Condensed", sans-serif;
   font-weight: 700;
   font-size: 32px;
