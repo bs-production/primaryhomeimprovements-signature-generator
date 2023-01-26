@@ -77,23 +77,23 @@
                   </td>
                 </tr>
 
-                <!-- <tr>
+                <tr>
                   <td colspan="2" style="padding-top: 5px;">
-                    <a href="https://www.facebook.com/healthybasementsystems" target="_blank" style=
+                    <a href="https://www.facebook.com/profile.php?id=100077292600907" target="_blank" style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
                     "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2822/icon-facebook_30x30-2.png" /></a>
                     
-                    <a href="https://www.linkedin.com/company/larry-janeskys-healthy-basement-systems" target="_blank" style=
+                    <!-- <a href="https://www.linkedin.com/company/larry-janeskys-healthy-basement-systems" target="_blank" style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
-                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2822/icon-linkedin_30x30-2.png" /></a>
+                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2822/icon-linkedin_30x30-2.png" /></a> -->
                     
-                    <a href="https://g.page/mid-state-basement-systems-oh/review?rc" target="_blank"
+                    <a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x89cf3fcf7080e093:0xebcb7363a77aab03?source=g.page.m.we._" target="_blank"
                     style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
@@ -101,7 +101,7 @@
                     src=
                     "https://cdn.treehouseinternetgroup.com/cms_images/2726/icon-google_30x30.png" /></a>
 
-                    <a href="https://www.instagram.com/healthybasementsystems/" target="_blank"
+                    <!-- <a href="https://www.instagram.com/healthybasementsystems/" target="_blank"
                     style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
@@ -121,9 +121,9 @@
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
-                    "https://cdn.treehouseinternetgroup.com/cms_images/48/tiktok-icon.png" /></a>
+                    "https://cdn.treehouseinternetgroup.com/cms_images/48/tiktok-icon.png" /></a> -->
                   </td>
-                </tr> -->
+                </tr>
               </table>
             </td>
           </tr>
