@@ -64,6 +64,6 @@ li {
 }
 
 a {
-  color: #0e3b7b;
+  color: #006c64;
 }
 </style>
