@@ -5,7 +5,7 @@
         "background: none; border-width: 0px; border: 0px; margin: 0; padding: 0;">
         <tr>
             <td valign="top" style="padding-top: 0; padding-bottom: 0; padding-left: 0; padding-right: 7px; border-top: 0; border-bottom: 0: border-left: 0;">
-              <a href="https://www.alfordhomesolutions.com" target="_blank">
+              <a href="https://www.goalford.com" target="_blank">
                 <img v-show="mobilePhoneSwitch" width="220" height="139" style="width: 220px; max-width: 220px !important; height: 139px; max-height: 139px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/2434/Alford_sign-gen-bar.jpg" name="preview-image-url" />
         
                 <img v-show="!mobilePhoneSwitch" width="190" height="121" style="width: 190px; max-width: 190px !important; height: 121px; max-height: 121px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/2434/Alford_sign-gen-bar.jpg" name="preview-image-url" />
@@ -70,9 +70,9 @@
                   </td>
                   <td valign="top" style=
                   "vertical-align: top; color: #333333; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
-                  <a href="https://www.alfordhomesolutions.com/" target="_blank" style=
+                  <a href="https://www.goalford.com" target="_blank" style=
                   "color: #333333; text-decoration: none; font-weight: normal; font-size: 14px;">
-                    alfordhomesolutions.com/</a>
+                    goalford.com/</a>
                     &nbsp;&nbsp;
                   </td>
                 </tr>
