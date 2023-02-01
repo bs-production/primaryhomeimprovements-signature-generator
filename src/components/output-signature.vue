@@ -6,9 +6,9 @@
         <tr>
             <td valign="top" style="padding-top: 0; padding-bottom: 0; padding-left: 0; padding-right: 7px; border-top: 0; border-bottom: 0: border-left: 0;">
               <a href="https://www.alfordhomesolutions.com" target="_blank">
-                <img v-show="mobilePhoneSwitch" width="220" height="139" style="width: 220px; max-width: 220px !important; height: 139px; max-height: 139px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/2434/alford-sign-logo-bar.png" name="preview-image-url" />
+                <img v-show="mobilePhoneSwitch" width="220" height="139" style="width: 220px; max-width: 220px !important; height: 139px; max-height: 139px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/2434/Alford_sign-gen-bar.jpg" name="preview-image-url" />
         
-                <img v-show="!mobilePhoneSwitch" width="190" height="121" style="width: 190px; max-width: 190px !important; height: 121px; max-height: 121px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/2434/alford-sign-logo-bar.png" name="preview-image-url" />
+                <img v-show="!mobilePhoneSwitch" width="190" height="121" style="width: 190px; max-width: 190px !important; height: 121px; max-height: 121px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/2434/Alford_sign-gen-bar.jpg" name="preview-image-url" />
               </a>
             </td>
             
@@ -18,7 +18,7 @@
             "background: none; border-width: 0px; border: 0px; margin: 0; padding: 0;">
               <tr>
                   <td colspan="2" style=
-                  "padding-bottom: 5px; color: #006c64; font-size: 18px; font-family: Arial, Helvetica, sans-serif;">
+                  "padding-bottom: 5px; color: #0054a6; font-size: 18px; font-family: Arial, Helvetica, sans-serif;">
                   {{fullName}}
                   </td>
                 </tr>
@@ -34,7 +34,7 @@
              
                 <tr>
                   <td width="20" valign="top" style=
-                  "vertical-align: top; width: 20px; color: #006c64; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                  "vertical-align: top; width: 20px; color: #0054a6; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                   Office:
                   </td>
                   <td valign="top" style=
@@ -44,7 +44,7 @@
                 </tr>
                 <tr v-show="mobilePhoneSwitch">
                 <td width="20" valign="top" style=
-                  "vertical-align: top; width: 20px; color: #006c64; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                  "vertical-align: top; width: 20px; color: #0054a6; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                   Mobile:
                   </td>
                   <td valign="top" style=
@@ -54,7 +54,7 @@
                 </tr>
                 <tr>
                     <td width="20" valign="top" style=
-                    "vertical-align: top; width: 20px; color: #006c64; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                    "vertical-align: top; width: 20px; color: #0054a6; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                     Email:
                     </td>
                     <td valign="top" style=
@@ -65,7 +65,7 @@
                   </tr>
                 <tr>
                   <td width="20" valign="top" style=
-                  "vertical-align: top; width: 20px; color: #006c64; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                  "vertical-align: top; width: 20px; color: #0054a6; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                   Web:
                   </td>
                   <td valign="top" style=
@@ -134,7 +134,7 @@
             </td>
           </tr>
         </table>
-          <p style="font-size: 10px; color: #006c64; line-height: 12px;text-align: left; width: 450px" width="450">This message contains confidential information and is intended only for the intended recipients. If you are not an intended recipient you should not disseminate, distribute or copy this e-mail. Please notify us immediately by e-mail if you have received this e-mail by mistake and delete this e-mail from your system. E-mail transmission cannot be guaranteed to be secure or error-free as information could be intercepted, corrupted, lost, destroyed, arrive late or incomplete, or contain viruses. Therefore we do not accept liability for any errors or omissions in the contents of this message, which arise as a result of e-mail transmission. If verification is required please request a hard-copy version.</p>
+          <p style="font-size: 10px; color: #0054a6; line-height: 12px;text-align: left; width: 450px" width="450">This message contains confidential information and is intended only for the intended recipients. If you are not an intended recipient you should not disseminate, distribute or copy this e-mail. Please notify us immediately by e-mail if you have received this e-mail by mistake and delete this e-mail from your system. E-mail transmission cannot be guaranteed to be secure or error-free as information could be intercepted, corrupted, lost, destroyed, arrive late or incomplete, or contain viruses. Therefore we do not accept liability for any errors or omissions in the contents of this message, which arise as a result of e-mail transmission. If verification is required please request a hard-copy version.</p>
     </section>
   </div>
 </template>
@@ -187,6 +187,6 @@ li {
 }
 
 a {
-  color: #006c64;
+  color: #0054a6;
 }
 </style>
