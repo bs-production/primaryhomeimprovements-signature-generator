@@ -5,7 +5,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <img src="https://cdn.treehouseinternetgroup.com/cms_images/2434/Alford_sign-gen.jpg" alt="" style="width:350px">
+            <img src="https://cdn.treehouseinternetgroup.com/cms_images/4062/cleveland-logo-2.png" alt="" style="width:350px">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
@@ -76,7 +76,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2023 Alford Home Solutions
+                    &copy;2024 Cleveland Basement Systems
                 </p>
             </div>
         </div>
@@ -159,7 +159,7 @@ li {
   margin-left: 1px;
   background-color: #efefef;
   padding: 20px;
-  border-top: 1px dashed #0054a6;
+  border-top: 1px dashed #0656a5;
 }
 .gif-box ul {
     text-align:left;
@@ -208,18 +208,18 @@ input:disabled {
   margin-top: 10px;
 }
 .button.is-success, .button.is-success[disabled] {
-  background-color: #0054a6;
+  background-color: #0656a5;
   border-color: transparent;
   color: #fff;
 }
 .button.is-success.is-hovered,
 .button.is-success:hover {
-  background-color: #0054a6;
+  background-color: #0656a5;
   border-color: transparent;
   color: #fff;
 }
 .input:focus {
-  border-color: #0054a6;
+  border-color: #0656a5;
   box-shadow: 0 0 0 0.125em rgba(119, 187, 70, 0.25);
 }
 .sub-text {
@@ -227,7 +227,7 @@ input:disabled {
   margin-top: 10px;
 }
 .sub-text p {
-  color: #ed1c24;
+  color: #ED2027;
   font-family: "Barlow Condensed", sans-serif;
   font-weight: 700;
   font-size: 32px;
@@ -237,7 +237,7 @@ input:disabled {
   border-bottom: 1px solid #000;
 }
 .input:focus {
-  border-color: #0054a6;
+  border-color: #0656a5;
   box-shadow: 0 0 0 0.125em rgba(119, 187, 70, 0.25);
 }
 .fade-enter-active,
