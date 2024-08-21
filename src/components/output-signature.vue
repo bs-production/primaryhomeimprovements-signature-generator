@@ -18,7 +18,7 @@
             valign="top"
             style="padding-top: 0; padding-bottom: 0; padding-left: 0; padding-right: 7px; border-top: 0; border-bottom: 0: border-left: 0;"
           >
-            <a href="https://www.clevelandbasementsystems.com/" target="_blank">
+            <a href="https://www.primaryhomeimprovements.com/" target="_blank">
               <img
                 v-show="mobilePhoneSwitch"
                 width="220"
@@ -31,7 +31,7 @@
                   margin-top: 5px;
                 "
                 id="preview-image-url"
-                src="https://cdn.treehouseinternetgroup.com/cms_images/4062/clev-signature-logo-bar.jpg"
+                src="https://cdn.treehouseinternetgroup.com/cms_images/4063/prime-signature-logo-bar.jpg"
                 name="preview-image-url"
               />
 
@@ -47,7 +47,7 @@
                   margin-top: 5px;
                 "
                 id="preview-image-url"
-                src="https://cdn.treehouseinternetgroup.com/cms_images/4062/clev-signature-logo-bar.jpg"
+                src="https://cdn.treehouseinternetgroup.com/cms_images/4063/prime-signature-logo-bar.jpg"
                 name="preview-image-url"
               />
             </a>
@@ -78,7 +78,7 @@
                   colspan="2"
                   style="
                     padding-bottom: 5px;
-                    color: #0656a5;
+                    color: #ec1c24;
                     font-size: 18px;
                     font-family: Arial, Helvetica, sans-serif;
                   "
@@ -107,7 +107,7 @@
                   style="
                     vertical-align: top;
                     width: 20px;
-                    color: #0656a5;
+                    color: #ec1c24;
                     font-size: 14px;
                     font-family: Arial, Helvetica, sans-serif;
                   "
@@ -133,7 +133,7 @@
                   style="
                     vertical-align: top;
                     width: 20px;
-                    color: #0656a5;
+                    color: #ec1c24;
                     font-size: 14px;
                     font-family: Arial, Helvetica, sans-serif;
                   "
@@ -159,7 +159,7 @@
                   style="
                     vertical-align: top;
                     width: 20px;
-                    color: #0656a5;
+                    color: #ec1c24;
                     font-size: 14px;
                     font-family: Arial, Helvetica, sans-serif;
                   "
@@ -195,7 +195,7 @@
                   style="
                     vertical-align: top;
                     width: 20px;
-                    color: #0656a5;
+                    color: #ec1c24;
                     font-size: 14px;
                     font-family: Arial, Helvetica, sans-serif;
                   "
@@ -212,7 +212,7 @@
                   "
                 >
                   <a
-                    href="https://www.clevelandbasementsystems.com/"
+                    href="https://www.primaryhomeimprovements.com/"
                     target="_blank"
                     style="
                       color: #333333;
@@ -221,7 +221,7 @@
                       font-size: 14px;
                     "
                   >
-                    clevelandbasementsystems.com</a
+                    primaryhomeimprovements.com</a
                   >
                   &nbsp;&nbsp;
                 </td>
@@ -230,7 +230,7 @@
               <tr>
                 <td colspan="2" style="padding-top: 5px">
                   <a
-                    href="https://www.facebook.com/clevelandbasementsystems"
+                    href="https://www.facebook.com/PrimaryHomeImprovements"
                     target="_blank"
                     style="
                       border-width: 0px;
@@ -272,7 +272,7 @@
                   /></a> -->
 
                   <a
-                    href="https://www.instagram.com/clevelandbasementsystems/"
+                    href="https://www.instagram.com/primaryhomeimprovements/"
                     target="_blank"
                     style="
                       border-width: 0px;
@@ -367,7 +367,7 @@
       <p
         style="
           font-size: 10px;
-          color: #0656a5;
+          color: #ec1c24;
           line-height: 12px;
           text-align: left;
           width: 450px;
@@ -439,6 +439,6 @@ li {
 }
 
 a {
-  color: #0656a5;
+  color: #ec1c24;
 }
 </style>
